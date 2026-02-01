@@ -25,7 +25,7 @@
  - 😇 *Patient worker.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/pibelanzallamas/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
- - 😊 *Website. [**[🌐]**](https://brandon-castillo.vercel.app/)*
+ - 😊 *Website. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
  - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/)*
 
 </div>
