@@ -23,7 +23,7 @@
  - 🩷 *Sass.enthusiastic*
  - 🏓 *Love to work on teams.*
  - 😇 *Patient dev.*
- - 😊 *Portfolio. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
+ - 💻 *Portfolio. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
 
 </div>
 
