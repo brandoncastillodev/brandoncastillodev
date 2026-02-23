@@ -19,14 +19,11 @@
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - ✍️ *Love creating things.*
- - 🩷 *Sass enthusiast.*
+ - ✍️ *Love creating original webs.*
+ - 🩷 *Sass.enthusiastic*
  - 🏓 *Love to work on teams.*
- - 😇 *Patient worker.*
- - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/pibelanzallamas/)*
- - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
- - 😊 *Website. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
- - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/)*
+ - 😇 *Patient dev.*
+ - 😊 *Portfolio. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
 
 </div>
 
