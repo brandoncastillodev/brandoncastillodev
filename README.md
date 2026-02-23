@@ -22,7 +22,6 @@
  - ✍️ *Love creating original webs.*
  - ✅ *3D animations enthusiastic*
  - 🏓 *Love to work on teams.*
- - 😇 *Patient dev.*
  - 🩷 *Sass enthusiastic* 
  - 💻 *Portfolio. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
 
@@ -32,7 +31,7 @@
 <br>
 
 <!-- <div align="center"> 
- 
+  - 😇 *Patient dev.*
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
  <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=transparent" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent" width="330px"/>   
@@ -59,3 +58,5 @@
 
 
 </div>
+
+
