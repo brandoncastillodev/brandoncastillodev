@@ -20,9 +20,10 @@
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
  - ✍️ *Love creating original webs.*
- - 🩷 *Sass.enthusiastic*
+ - ✅ *3D animations enthusiastic*
  - 🏓 *Love to work on teams.*
  - 😇 *Patient dev.*
+ - 🩷 *Sass enthusiastic* 
  - 💻 *Portfolio. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
 
 </div>
