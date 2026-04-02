@@ -23,7 +23,7 @@
  - ✅ *3D animations enthusiastic*
  - 🏓 *Love to work on teams.*
  - 🩷 *Sass enthusiastic* 
- - 💻 *Portfolio. [**[🌐]**](https://brandoncastillodev.vercel.app/)*
+ - 💻 *Portfolio. [**[🌐]**](https://brandon-castillo.vercel.app/)*
 
 </div>
 
