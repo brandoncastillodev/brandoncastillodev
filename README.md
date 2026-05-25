@@ -6,7 +6,7 @@
 
 <div align="left">
  
- #### *(alias `brandoncastillodev`👨‍💻)*
+ #### *(aka `brandon castillo dev`👨‍💻)*
  
 </div>
 
